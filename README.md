@@ -6,6 +6,9 @@
 
 This repository serves as a starting point for managing multi-tenant clusters with Git and Flux v2.
 
+In short, you have a tenant repository (see branch dev-team for layout), that you integrate into
+your flux repository.
+
 ![](docs/img/flux2-multi-tenancy.png)
 
 ## Roles
